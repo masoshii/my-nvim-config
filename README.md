@@ -8,7 +8,7 @@ Also I use the following Coc Plugins:
 - coc-clangd
 - coc-snippets
 
-(The theme that I personally use is in the config file)
+(The theme that I personally use for Airline is 'minimalist')
 
 ### Screenshots
 
