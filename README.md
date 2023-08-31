@@ -10,8 +10,6 @@ Also I use the following Coc Plugins:
 
 (The theme that I personally use for Airline is 'minimalist', you can set your own theme using `:AirlineTheme [Theme]`)
 
-**Check the section above for some considerations**
-
 ## Considerations
 
 There's some things you need to have in consideration before using this config.
