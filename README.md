@@ -17,7 +17,7 @@ There's some things you need to have in consideration before using this config.
 - As I said in the introduction I used a machine with Arch Linux in it, normally you should have no problem with that.
 - I used Neovim, **not** Vim. So if you use Vim you should rename this file to '.vimrc'.
 - You need vim-plug before using this config, or it won't work.
-- Autocorrect will only work with Python, C and C++. If you want to use it with another language you need to install the proper Coc plugin.
+- Code completion will only work with Python, C and C++. If you want to use it with another language you need to install the proper Coc plugin.
 - After putting this file in the proper directory you have to use the command `:PlugInstall`.
 
 ## Screenshots
